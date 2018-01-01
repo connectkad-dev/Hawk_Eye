@@ -1,0 +1,39 @@
+# This file contains metadata for your plugin. Since 
+# version 2.0 of QGIS this is the proper way to supply 
+# information about a plugin. The old method of 
+# embedding metadata in __init__.py will 
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=Hawk_Eye
+qgisMinimumVersion=2.0
+description=Telecom site mapper and Planner
+version=0.1
+author=Joyjeet Chowdhury
+email=joyjeetchowdhury@gmail.com
+
+about=Telecom Site/Cell mapper and planner tool. Currently it is simply used to map the site/cell structure and Drive routes in QGIS for quick Planning, analysis and Optimization. it enables users to switch from MapInfo planning tool to Quantam GIS. Kindly donate for the further developement of the project.
+
+tracker=https://github.com/joyjeetchowdhury/Hawk_Eye/issues
+repository=https://github.com/joyjeetchowdhury/Hawk_Eye
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=Telecom, Telecommunication, MIPT, MapInfo, QGIS, QuantumGIS, GIS, RF Planner, RF Optimizer, RF Engineer, RadioFrequency
+
+homepage=https://github.com/joyjeetchowdhury
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+

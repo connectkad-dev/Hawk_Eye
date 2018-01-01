@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Hawk_Eye" >
+        <file>Hawk's_Eye.png</file>
+    </qresource>
+</RCC>
